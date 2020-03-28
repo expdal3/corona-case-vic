@@ -1,0 +1,14 @@
+.icon {
+    color: #ff4c68;
+    margin: 2px auto;
+}
+
+.icon:hover {
+    color: #ef8172;
+    transform: scale(1.5);
+}
+
+.social-icon {
+    margin: -10px 10px;
+    scale: 1.5rem;
+}
